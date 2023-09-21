@@ -1,0 +1,20 @@
+HTTP/1.1: The Old Way
+
+HTTP/1.1 is the older version of the web protocol.
+It fetches web page elements one at a time, leading to slower page loading.
+Every request and response carries redundant header data, which wastes bandwidth.
+Slow-loading resources can block others from loading, causing delays.
+HTTP/2: The New Way
+
+HTTP/2 is the improved, faster version.
+It loads multiple resources simultaneously, reducing page load times.
+Header compression minimizes data overhead, making it faster on slower connections.
+Server push sends resources to the browser before it asks, further boosting speed.
+Prioritization ensures critical resources load first, improving user experience.
+HTTP/2 uses a more efficient binary protocol, simplifying data exchange.
+In simple terms, HTTP/2 is like a speedier, smarter courier for the web, delivering your web content faster and more efficiently than the older HTTP/1.1.
+
+
+
+
+

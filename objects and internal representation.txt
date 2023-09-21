@@ -1,0 +1,18 @@
+JavaScript objects are like labeled boxes: each box (object) has labels (keys) that point to different things (values). For example, { name: "Sara", age: 17 } is like a box labeled 'name' with 'Sara' inside and 'age' with '17' inside.
+
+You can peek inside these boxes using dots or brackets – person.name or person["name"].
+
+Boxes are flexible; you can add, change, or remove stuff anytime, like updating a list of favorite snacks.
+
+Objects can also share features from other objects, like getting cool superpowers from a superhero team.
+
+To share your boxes with others, you can turn them into readable messages using JSON.stringify().
+
+JavaScript takes care of cleaning up unused boxes, like tidying up your room to avoid clutter.
+
+And boxes have unique ways of introducing themselves (toString) and showing their real worth (valueOf).
+
+
+
+
+
